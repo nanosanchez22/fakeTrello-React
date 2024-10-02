@@ -1,0 +1,39 @@
+{
+    "columns": [
+      { "id": 1, "title": "Backlog", "taskIds": ["f2a0", "a1b2"] },
+      { "id": 2, "title": "To Do", "taskIds": ["c3d4"] },
+      { "id": 3, "title": "In Progress", "taskIds": [] },
+      { "id": 4, "title": "Blocked", "taskIds": [] },
+      { "id": 5, "title": "Done", "taskIds": [] }
+    ],
+    "tasks": [
+      {
+        "id": "f2a0",
+        "title": "Tarea 1",
+        "description": "Estoy en la columna Backlog",
+        "assigned": "Person 1",
+        "priority": "High",
+        "deadline": "2024-09-30",
+        "status": "1"
+      },
+      {
+        "id": "a1b2",
+        "title": "Tarea 2",
+        "description": "Otra tarea en Backlog",
+        "assigned": "Person 2",
+        "priority": "Medium",
+        "deadline": "2024-10-10",
+        "status": "1"
+      },
+      {
+        "id": "c3d4",
+        "title": "Tarea 3",
+        "description": "Una tarea para la columna To Do",
+        "assigned": "Person 3",
+        "priority": "Low",
+        "deadline": "2024-11-01",
+        "status": "2"
+      }
+    ]
+  }
+  

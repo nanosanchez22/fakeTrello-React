@@ -1,0 +1,30 @@
+.task-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.5em;
+
+    background-color: rgb(121, 146, 255);
+    border-radius: 5px 5px 0 0;
+}
+
+.task-container{
+    margin: 0.5em 1em;
+}
+
+.task-content{
+    padding: 0.5em;
+    border-radius: 0 0 5px 5px;
+    background-color: rgb(121, 146, 255);
+}
+
+.task-info{
+    padding: 0;
+    margin: 0.2em;
+
+}
+
+h3{
+    margin: 0.2em;
+    padding: 0;
+}
